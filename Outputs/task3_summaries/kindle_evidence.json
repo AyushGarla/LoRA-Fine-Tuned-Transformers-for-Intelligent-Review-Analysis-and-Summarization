@@ -1,0 +1,46 @@
+{
+  "category": "Kindle",
+  "top_products": [
+    {
+      "id": "B018T075DC",
+      "name": "Brand New Amazon Kindle Fire 16gb 7 Ips Display Tablet Wifi 16 Gb Blue,,,",
+      "avg_star": 5.0,
+      "num_reviews": 7,
+      "pos_ratio": 1.0,
+      "neg_ratio": 0.0,
+      "pros": [],
+      "complaints": []
+    },
+    {
+      "id": "B00OQVZDJM",
+      "name": "Amazon Kindle Paperwhite - eBook reader - 4 GB - 6 monochrome Paperwhite - touchscreen - Wi-Fi - black,,,",
+      "avg_star": 4.772355163727959,
+      "num_reviews": 3176,
+      "pos_ratio": 0.9580745341614907,
+      "neg_ratio": 0.013975155279503106,
+      "pros": [],
+      "complaints": []
+    },
+    {
+      "id": "B00IOYAM4I",
+      "name": "Brand New Amazon Kindle Fire 16gb 7 Ips Display Tablet Wifi 16 Gb Blue,,,",
+      "avg_star": 4.862745098039215,
+      "num_reviews": 51,
+      "pos_ratio": 0.9333333333333333,
+      "neg_ratio": 0.0,
+      "pros": [],
+      "complaints": []
+    }
+  ],
+  "differences": [],
+  "worst_product": {
+    "id": "B00TSUGXKE",
+    "name": "Echo (White),,,\r\nEcho (White),,,",
+    "avg_star": 4.420054200542006,
+    "num_reviews": 369,
+    "pos_ratio": 0.8452380952380952,
+    "neg_ratio": 0.023809523809523808,
+    "top_complaints": []
+  },
+  "method_note": "Ranking = 0.5*normalized average star + 0.3*positive ratio + 0.2*log(review_count). Keyphrases via TF-IDF on positive/negative subsets."
+}

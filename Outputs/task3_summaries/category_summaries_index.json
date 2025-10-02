@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Accessories  /  Kindle",
+    "evidence_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\accessories_kindle_evidence.json",
+    "article_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\accessories_kindle_article.md"
+  },
+  {
+    "category": "Kindle",
+    "evidence_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\kindle_evidence.json",
+    "article_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\kindle_article.md"
+  },
+  {
+    "category": "Misc",
+    "evidence_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\misc_evidence.json",
+    "article_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\misc_article.md"
+  },
+  {
+    "category": "Speakers  /  Electronics",
+    "evidence_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\speakers_electronics_evidence.json",
+    "article_path": "F:\\MS\\Ironhack\\week14\\Project_customer_review\\LLM_Customer_review_project\\task3_summaries\\speakers_electronics_article.md"
+  }
+]

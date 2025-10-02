@@ -1,0 +1,110 @@
+{
+  "vectorizer": {
+    "max_features": 20000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "vocab_size": 308
+  },
+  "kmeans": {
+    "n_clusters": 6,
+    "random_state": 42,
+    "inertia": 21.006581993877464
+  },
+  "cluster_top_terms": {
+    "0": [
+      "tablets",
+      "readers",
+      "computers",
+      "amazon kindle",
+      "computers tablets",
+      "kindle fire",
+      "kindle",
+      "brand new",
+      "blue",
+      "display tablet",
+      "wifi 16",
+      "16gb ips"
+    ],
+    "1": [
+      "accessories",
+      "kindle",
+      "cables",
+      "power",
+      "accessories kindle",
+      "amazon",
+      "adapters",
+      "store",
+      "kindle store",
+      "power adapters",
+      "device accessories",
+      "amazon device"
+    ],
+    "2": [
+      "tablets",
+      "hd",
+      "hd display",
+      "hd tablet",
+      "tablets fire",
+      "fire hd",
+      "all",
+      "fire",
+      "with",
+      "32 gb",
+      "32",
+      "all new"
+    ],
+    "3": [
+      "home",
+      "smart",
+      "echo",
+      "speakers",
+      "white",
+      "echo white",
+      "smart home",
+      "audio",
+      "streaming",
+      "electronics",
+      "media",
+      "streaming media"
+    ],
+    "4": [
+      "readers",
+      "kindle",
+      "300",
+      "ppi",
+      "300 ppi",
+      "display 300",
+      "high resolution",
+      "resolution",
+      "resolution display",
+      "high",
+      "fi includes",
+      "wi fi"
+    ],
+    "5": [
+      "tablets",
+      "fire",
+      "tablet display",
+      "fi gb",
+      "display wi",
+      "gb includes",
+      "fire tablet",
+      "wi",
+      "fi",
+      "wi fi",
+      "includes",
+      "includes special"
+    ]
+  },
+  "cluster_name_map": {
+    "0": "Kindle",
+    "1": "Accessories  /  Kindle",
+    "2": "Misc",
+    "3": "Speakers  /  Electronics",
+    "4": "Kindle",
+    "5": "Misc"
+  }
+}
