@@ -1,3 +1,5 @@
+LoRA-Fine-Tuned Transformers for Intelligent Review Analysis and Summarization
+
 End-to-end NLP pipeline that classifies, clusters, and summarizes Amazon product reviews, deployed as an interactive Streamlit dashboard.
 
 Task 1 – Sentiment Classification: LoRA-fine-tuned BERT (3 classes: negative / neutral / positive)
